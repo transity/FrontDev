@@ -160,21 +160,6 @@
             "timeout": 5,
             "slides": [
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "overlayColor": "#7221f4",
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "STR In SLC Market Report",
-                "showText": true,
-                "text": "The STR (Short Term Rental) Market generated over 13 MILLION Gross Revenue this season in Park City through just Airbnb alone... Grab the STR In SLC Executive Summary to learn more.",
-                "showButtons": true,
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Download Report</a> "
-              },
-              {
                 "active": false,
                 "image": "@PROJECT_PATH@/assets/images/living-2000x1021.jpg",
                 "playVideo": false,
@@ -188,6 +173,21 @@
                 "text": "Currently expanding our portfolio of rental properties.",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Qualify My Home</a> "
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayColor": "#7221f4",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "STR In SLC Market Report",
+                "showText": true,
+                "text": "The STR (Short Term Rental) Market generated over 13 MILLION Gross Revenue this season in Park City through just Airbnb alone... Grab the STR In SLC Executive Summary to learn more.",
+                "showButtons": true,
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Download Report</a> "
               },
               {
                 "active": false,
