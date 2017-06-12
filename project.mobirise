@@ -491,7 +491,7 @@
           "_name": "testimonials1",
           "testimonial": [
             {
-              "text": "<p>“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>",
+              "text": "<p>“...we never expected Airbnb to be so easy. Transity helped us refinish a couple of rooms in the house and now we are earning enough money to make some vital repairs to our home.”</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face3.jpg",
@@ -501,8 +501,8 @@
                   "active": true
                 }
               },
-              "authorName": "Abanoub S.",
-              "authorBio": "User"
+              "authorName": "Daryl H.",
+              "authorBio": "Home Owner"
             },
             {
               "text": "<p>“Working with Daniel and the Transity Team has been simply amazing. We have over doubled the income on our triplex so far and now revenues are even going higher! I was able to get Superhost status on my first review thanks to Daniel's guidance. He really is the Short Term Rental expert here in Salt Lake City.”</p>",
@@ -515,11 +515,11 @@
                   "active": true
                 }
               },
-              "authorName": "Suffian A.",
-              "authorBio": "User"
+              "authorName": "David B.",
+              "authorBio": "Landlord"
             },
             {
-              "text": "<p>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
+              "text": "<p>“Working with them from the very beginning it is incredible to watch how Daniel is able to bring people, compaines and systems together in unison. I have heard some of the future plans and I am excited to be working together.”</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face2.jpg",
