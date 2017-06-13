@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 18,
+    "uniqCompNum": 19,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-purple-128x128.png",
     "noImageResize": ""
@@ -129,7 +129,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px;\"></span>Transity Homes</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-extension mbr-iconfont mbr-iconfont-btn\"></span>OVERVIEW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Who is Transity?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">How It Works</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Partners<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-globe-2 mbr-iconfont mbr-iconfont-btn\"></span>SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Transity Homes™</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Transity Co-Hosting™</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Transity Realtor &amp; PM™</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Professional Services</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Cleaning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Photography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Creative Writing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Floor Plan Designs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Staging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Maintainence</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Keyless Locks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Consulting</a></div></div></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\"><span class=\"mbri-sites mbr-iconfont mbr-iconfont-btn\"></span>HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">FAQs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Community</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"registration.html\"><span class=\"mbri-login mbr-iconfont mbr-iconfont-btn\"></span>LOGIN</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-extension mbr-iconfont mbr-iconfont-btn\"></span>OVERVIEW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Who is Transity?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">How It Works</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Partners<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-globe-2 mbr-iconfont mbr-iconfont-btn\"></span>SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Transity Homes™</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Transity Co-Hosting™</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Transity Realtor &amp; PM™</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Professional Services</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Cleaning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Photography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Creative Writing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Floor Plan Designs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Staging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Maintainence</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Keyless Locks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Consulting</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-sites mbr-iconfont mbr-iconfont-btn\"></span>HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">FAQs<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Community</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"registration.html\"><span class=\"mbri-login mbr-iconfont mbr-iconfont-btn\"></span>LOGIN</a></li>"
         },
         {
           "_name": "footer1",
@@ -366,6 +366,44 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-i",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/report-cover-2000x1411.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showButtons": true,
+            "showTitle": true,
+            "showText": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWLOAD REPORT</a>",
+          "title": "STR In SLC Market Report",
+          "text": "The STR (Short Term Rental) Market Report highlights the state of the market in Salt Lake City."
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -508,11 +546,15 @@
               "text": "<p>“Working with Daniel and the Transity Team has been simply amazing. We have over doubled the income on our triplex so far and now revenues are even going higher! I was able to get Superhost status on my first review thanks to Daniel's guidance. He really is the Short Term Rental expert here in Salt Lake City.”</p>",
               "media": {
                 "image": {
-                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/mbr-128x160.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
-                  "active": true
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
                 }
               },
               "authorName": "David B.",
@@ -797,7 +839,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px;\"></span>Transity Homes</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-extension mbr-iconfont mbr-iconfont-btn\"></span>OVERVIEW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Who is Transity?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">How It Works</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Partners<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-globe-2 mbr-iconfont mbr-iconfont-btn\"></span>SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Transity Homes™</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Transity Co-Hosting™</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Transity Realtor &amp; PM™</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Professional Services</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Cleaning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Photography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Creative Writing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Floor Plan Designs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Staging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Maintainence</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Keyless Locks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Consulting</a></div></div></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\"><span class=\"mbri-sites mbr-iconfont mbr-iconfont-btn\"></span>HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">FAQs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Community</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"registration.html\"><span class=\"mbri-login mbr-iconfont mbr-iconfont-btn\"></span>LOGIN</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-extension mbr-iconfont mbr-iconfont-btn\"></span>OVERVIEW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Who is Transity?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">How It Works</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Partners<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-globe-2 mbr-iconfont mbr-iconfont-btn\"></span>SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Transity Homes™</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Transity Co-Hosting™</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Transity Realtor &amp; PM™</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Professional Services</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Cleaning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Photography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Creative Writing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Floor Plan Designs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Staging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Maintainence</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Keyless Locks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Consulting</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-sites mbr-iconfont mbr-iconfont-btn\"></span>HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">FAQs<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Community</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"registration.html\"><span class=\"mbri-login mbr-iconfont mbr-iconfont-btn\"></span>LOGIN</a></li>"
         },
         {
           "_name": "footer1",
