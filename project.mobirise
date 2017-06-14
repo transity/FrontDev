@@ -153,6 +153,12 @@
             "Theme"
           ],
           "_name": "slider",
+          "_styles": {
+            "H2": {
+              "text-align": "center",
+              "font-size": "60px"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": 3,
@@ -170,7 +176,7 @@
                 "showTitle": true,
                 "title": "We Are Transity Homes",
                 "showText": true,
-                "text": "Currently expanding our portfolio of rental properties.",
+                "text": "Leading experts on the short-term rental market and professionals in alternative accommodation services.",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Qualify My Home</a> "
               },
@@ -183,9 +189,9 @@
                 "overlayColor": "#7221f4",
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "STR In SLC Market Report",
+                "title": "$13 Million Dollars",
                 "showText": true,
-                "text": "The STR (Short Term Rental) Market generated over 13 MILLION Gross Revenue this season in Park City through just Airbnb alone... Grab the STR In SLC Executive Summary to learn more.",
+                "text": "The market for short-term rentals (STR) generated over 13 MILLION in gross revenue this season in Park City through Airbnb alone... Wanna know how they did it? Grab the STR in SLC Executive Summary to find out.",
                 "showButtons": true,
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Download Report</a> "
               },
@@ -200,7 +206,7 @@
                 "showTitle": true,
                 "title": "Local Co-Hosting Experts",
                 "showText": true,
-                "text": "If we are a good fit for each other, our team can create an entirely passive revenue stream out of spare rooms in your home. Mother-In-Law suites are PERFECT for Business Travelers. Grab the STR In SLC Executive Summary to learn more.",
+                "text": "Our team can create an extra stream of revenue right out of the spare rooms in your home. Our local experts offer a variety of services from cleaning to maintenance, and even staging. To get started today, grab the STR In SLC Executive Summary and  learn more.",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Get Help Hosting</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Download Summary</a> "
               },
@@ -213,9 +219,9 @@
                 "overlayColor": "#7221f4",
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "Are You a Realtor or PM?",
+                "title": "Realtor or Property Manager?",
                 "showText": true,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "text": "Put that beautifully staged property to work. Nothing out of pocket and zero risk as a comprehensive hybrid policy insures the property and the business.",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Learn More</a> "
               }
@@ -225,13 +231,7 @@
             "showBullets": true
           },
           "_anchor": "slider-0",
-          "articleLayout": false,
-          "_styles": {
-            "H2": {
-              "text-align": "center",
-              "font-size": "60px"
-            }
-          }
+          "articleLayout": false
         },
         {
           "_inherit": "features4",
@@ -384,7 +384,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/report-cover-2000x1411.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/report-cover-2-2000x1412.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -408,6 +408,11 @@
             "Theme"
           ],
           "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            }
+          },
           "_anchor": "features1-b",
           "_params": {
             "columnsColor": "#2e2e2e",
@@ -446,7 +451,7 @@
           },
           "title1": "Turnover Cleaning",
           "subtitle1": "Just $14.95",
-          "caption1": "Make it perfect gor the next guest. Cleaniness is a top point in 5 Star Reviews for your listings.<br><br>Our professionals will get to the task of replacing the linens, making the bed, dusting the room, cleaning the floor, replinish towels and take out the trash.&nbsp;",
+          "caption1": "Make it perfect for the next guest. Cleaniness is a top point in 5 Star Reviews for your listings.<br><br>Our professionals will get to the task of replacing the linens, making the bed, dusting the room, cleaning the floor, replinish towels and take out the trash.&nbsp;",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">BOOK IT</a>",
           "media2": {
             "image": {
@@ -474,7 +479,7 @@
           },
           "title3": "Front Desk",
           "subtitle3": "Reach us for pricing",
-          "caption3": "24/7/365 Expert communications with your guests on your behalf.<br> <br>Resevation management, Check-In ~ Check-Out, Cleaning and other servicing coordination.<br><br>In-app messages, SMS &amp; E-mail<br><br>",
+          "caption3": "24/7/365 Expert communications with your guests on your behalf.<br> <br>Resevation management, Check-In ~ Check-Out, Cleaning and other servicing coordination.<br><br>In-app messages, SMS &amp; E-mail<br><br>Emergency Voice Escalation<br><br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">TAKE A BREAK</a>",
           "media4": {
             "image": {
@@ -515,12 +520,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#2e2e2e"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_tags": [
@@ -579,6 +579,10 @@
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
+            "count": 3,
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
@@ -588,11 +592,7 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": true,
-            "showSubtitle": true,
-            "count": 3,
-            "showImages": true,
-            "showName": true,
-            "showBio": true
+            "showSubtitle": true
           },
           "title": "WHAT OUR AWESOME LANDLORDS SAY",
           "subtitle": "Nothing is more important than Brand Integrity, our relationships are all we have."
@@ -894,6 +894,11 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "form1-7",
           "_params": {
             "labelsColor": "#232323",
@@ -939,12 +944,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
         },
         {
           "_tags": [
