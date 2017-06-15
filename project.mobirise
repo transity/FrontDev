@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "blog.html",
     "name": "Transity",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 19,
+    "uniqCompNum": 36,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-purple-128x128.png",
     "noImageResize": ""
@@ -967,6 +967,440 @@
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/logo-314x-265x51.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "We endeavor to deliver a refined and consistent experience for our guests, landlords and vendors.",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "+1 (801) 538.HOME (4667)",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "Transity<br>269 East 900 South<br>Suite 241<br>Salt Lake City, Utah<br>84105",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "<a href=\"mailto:support@mobirise.com\">o</a>ffice@TransityHomes.com",
+          "title1": "Offerings",
+          "text5": "<li>Transity Homes™</li><li>Transity Co-Hosting™</li><li>Transity Realtor &amp; PM™</li><li>Professional Services</li><li><a class=\"text-white\" href=\"#\">S</a>TR In SLC Market Report</li>",
+          "text6": "<strong>Corporate</strong><br>Blog<br>News<br>Become An Affliate<br>Become A Vendor<br>Bring Transity To Your City<br>Press Relations<br>Investor Relations<br><br><br><strong>Policies</strong><br>Privacy Policy<br>Terms of Use",
+          "form": {
+            "title": "MESSAGE",
+            "action": "daniel@liferevsLABS.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Reach Transity</a>"
+        }
+      ]
+    },
+    "blog.html": {
+      "settings": {
+        "title": "Blog",
+        "meta_descr": "Good desc."
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#343234"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#464446!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#4e4b4e"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#81528b!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".navbar-caption SPAN": {
+              "font-size": "32px"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-j",
+          "_params": {
+            "bgColor": "#4e4b4e",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 40px;\"></span>Transity Homes</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-extension mbr-iconfont mbr-iconfont-btn\"></span>OVERVIEW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Who is Transity?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">How It Works</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Partners<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\"><span class=\"mbri-globe-2 mbr-iconfont mbr-iconfont-btn\"></span>SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Transity Homes™</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Transity Co-Hosting™</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Transity Realtor &amp; PM™</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Professional Services</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Cleaning</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Photography</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Creative Writing</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Floor Plan Designs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Staging</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Maintainence</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Keyless Locks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Consulting</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Insurance<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">No Credit Financing</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-sites mbr-iconfont mbr-iconfont-btn\"></span>HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">FAQs<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Community</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"registration.html\"><span class=\"mbri-login mbr-iconfont mbr-iconfont-btn\"></span>LOGIN</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-k",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Transity Holdings Corporation &nbsp;| &nbsp;All Logos and Trademarks are the property of their respective owners.&nbsp;<br>Transity is not part of HomeAway, VRBO or Airbnb."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-m",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Transity Blog",
+          "text": "<p>From dust to Transity. Follow us and the alternative accomodations industry here.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-n",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Why Did I Build Transity?",
+          "meta": "By Daniel J. Cowart posted June 14, 2017"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-o",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>It all started in August of 2016, that is when I created my Airbnb account. Fast forward nearly one year and I have hosted hundreds of Guests and have 103 Reviews as of June 12, 2017. Hosting strangers in your home is not for the faint of heart. I wish to share with you some of my story.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-t",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/airbnb-profile-dcowart-8-2016-to-june-2017-1400x1304.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Becoming Superhost is not so easy in all cases."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-v",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Source: https://www.airbnb.com/users/show/90675770 &nbsp;</p><p><br></p><p>Some background on me and my family so you can understand better how we got here. I am Daniel J. Cowart, son of Linda Healy, whom is Daughter of Joseph W. (Bill) Healy my Grandfather, Mentor, Teacher and inspiration.&nbsp;</p><p>I began working for Grandpa when I was 10 years old, after my parents divorced and we moved back to Utah, for .25 cents an hour picking up garbage in the Homestead Farms condominium complex in West Valley, Utah next to the Redwood Drive In Movies. Over the years I enjoyed his learnings and stories in business and life. After he retired from the Air Force, he had joined Heartland Realtors as an agent and soon not only was the top agent but bought the company in the early 70s, he grew it to one of the largest brokerages before closing the doors in the late 70s when interest rates hit 22% and everything fell out of escrow.</p><p><br></p><p>When I was seventeen years old I moved to Hawaii in 1991 and remained there nearly 20 years. Very early on I was one of the youngest people to attain a Real Estate license in the State of Hawaii, I wasn’t even 20 years old at the time. I remember well the phone call I had with Grandpa when I asked him if he wouldn’t mind me using the Heartland name, he concurred. The first company I built in Hawaii was Heartland Corporation dba Heartland Cleaning Services.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-p",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>Today I live in the best of both my worlds; Real Estate and Technology and am passionate about continually raising the bar in both. I have again created a first in market company. Transity the only full service Short Term Rental (Alternative Accommodations) company in Salt Lake City, Utah.&nbsp;</blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-x",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>I wanted to do Real Estate for as long as I can remember. Once I got to Honolulu it took me about 30 seconds to realize that if I wanted any chance of real success in Real Estate in Hawaii in the early 90s I needed to learn Japanese, so I did. The kipper is, it took me about 4.5 ~ 5 years to be fluent enough to do business and by that time the bubble had burst in Japan crushing the Real Estate market in Hawaii.</p><p><br></p><p>The cleaning business was going well enough that I needed to modernize the accounting, QuickBooks vs written ledger. Computers were very expensive then and especially in Hawaii, so I asked my brother to send me one from Utah. A short while later I took delivery of my first Windows computer. It was a meager 386 running Windows 3.1.1, my pocket has more power than that in it now. However, it changed my life.</p><p><br></p><p>I was so fascinated with the mouse in my hand moving the screen I just had to understand how it did that. So I took it all apart and began dissecting Windows in 1996 and opened my first tech business that same year, the first bilingual web development company in Hawaii. In 1999 I achieved my Microsoft certifications: MCP (Microsoft Certified Professional), MCP+I (Microsoft Certified Professional Plus Internet) and MCSE (Microsoft Certified Systems Engineer) and among the few thousand in the world of whom were English and Japanese bilingual. I had found another passion.</p><p><br></p><p>Throughout my IT career it has been an honor to have served so many incredible companies like; Disney, UBS Warburg, GlaxoSmithKlien, Fox, National Semiconductor and NYU. I even administered a server in Hawaii for Cisco. I was with the Digital Island organization which was acquired by Cable &amp; Wireless for a couple years. As it was a remote on-demand position I was able to continue to build my companies, so perfect.</p><p><br></p><p>I was in the process of expanding my company into Tokyo, Japan in 2009 when Grandpa passed away. Although I had been to Tokyo over 50 times by then, I had never lived there, I was there for most of 2010. I was in Utah for about 6 months after he passed to help Mimi through this transition in 2009. In 2011 I pulled the plug on everything professionally and personally and moved back to Utah, in to the family home with Mimi. You see the only thing Grandpa wanted in the end was for Mimi to stay in their home. The only way this was going to happen was for me to see to it personally otherwise the house would be gone and Mimi would be living in Beaver, Utah with her oldest son.</p><p><br></p><p>An opportunity presented itself in late 2011 and I started a new company here in Utah. This business does on-line marketing and State of Wyoming LLC creation.</p><p><br></p><p>So let me get to the point, Transity.</p><p><br></p><p>I am so proud of this newest company Transity Holdings Corporation that was incorporated in the State of Utah on June 7, 2017</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-y",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/transity-utah-gov-1400x1137.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "The Creation of Utah's first Full Service Alternative Accomodations Company."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-z",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Source: https://secure.utah.gov/bes/details.html?entity=10389428-0142 &nbsp;</p><p><br></p><p>Today I live in the best of both my worlds; Real Estate and Technology and am passionate about continually raising the bar in both. I have again created a first in market company. Transity the only full service Short Term Rental (Alternative Accommodations) company in Salt Lake City, Utah. And of course, partnered or in the process of partnering with the biggest players in the industry; HomeAway, VRBO and Airbnb as channel partners among banking partners which will lend solely on Airbnb booking income and insurance partners with specific hybrid Homeowner Policies that insure not just the property but the revenue too!</p><p><br></p><p>Demonstrating how timely Transity is, Airbnb has just introduced an in-app feature that will connect Hosts with other Host who are willing to Co-Host for a fee ranging from 5% to 25% of the booking revenue. Well, that is exactly what Transity Co-Hosting does for current or new Hosts. The difference is we do everything on that list PLUS PLUS PLUS.</p><p>&nbsp;</p><p><br></p><p><br></p><p><br></p><p>Source: https://www.airbnb.com/co-hosting&nbsp;</p><p><br></p><p>Transity has three lines of business:</p><p>Transity Co-Hosting</p><p>&lt;CAT SHORT DESC&gt;</p><p><br></p><p>Transity Homes</p><p>&lt;CAT SHORT DESC&gt;</p><p><br></p><p>Transity Realtor &amp; Property Manager</p><p>&lt;CAT SHORT DESC&gt;</p><p><br></p><p>And some exclusive products that go in to those offerings. Let’s start with the number one pain for homeowners would be Hosts—cleaning. More specifically, turnover cleanings – not the deep cleaning but the make the bed, dust the room and clean the floors cleanings that must be between 11AM and 3PM. Why? Because those are the standard Check-In and Check-Out times for the guests. Which is not such a big deal if you are able to offer your entire home or apartment. The ripple is when you have two three or even more rooms in your home for rent. Now it is not just turnover but common areas as needed also. One thing I know for sure is Hosts do not want to be housekeepers. So, I made a solution. Turnover Cleanings for less than $15.00. Yes, just 14.98 when Transity is your Co-Host.</p><p><br></p><p>In bringing Transity to market I have put together many solutions, vendors and partners with the sole intent of being able to build a model that can replicate and scale while helping average people earn more than average with the spaces they already have. When I saw that I could generate Waikiki rental income with Salt Lake City Real Estate costs I got very excited, learned everything I could about it put a team together and am now ready to help others do the same.</p><p><br></p><p>Which is where the name was adopted. TRANSitioning homes from liability to profitabilITY. Our company color of purple was chosen because it is Mimi’s favorite color. My mom and I will be walking around the block party this weekend June 17, 2017 on 1100 East wearing purple shirts, feel free to say hello.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-q",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p>Today I live in the best of both my worlds; Real Estate and Technology and am passionate about continually raising the bar in both. I have again created a first in market company. Transity the only full service Short Term Rental (Alternative Accommodations) company in Salt Lake City, Utah.&nbsp;</p>",
+          "text2": "<p>Today I live in the best of both my worlds; Real Estate and Technology and am passionate about continually raising the bar in both. I have again created a first in market company. Transity the only full service Short Term Rental (Alternative Accommodations) company in Salt Lake City, Utah.&nbsp;</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-r",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p>Today I live in the best of both my worlds; Real Estate and Technology and am passionate about continually raising the bar in both. I have again created a first in market company. Transity the only full service Short Term Rental (Alternative Accommodations) company in Salt Lake City, Utah.&nbsp;</p>",
+          "text2": "<p>Today I live in the best of both my worlds; Real Estate and Technology and am passionate about continually raising the bar in both. I have again created a first in market company. Transity the only full service Short Term Rental (Alternative Accommodations) company in Salt Lake City, Utah.&nbsp;</p>",
+          "text3": "<p>Today I live in the best of both my worlds; Real Estate and Technology and am passionate about continually raising the bar in both. I have again created a first in market company. Transity the only full service Short Term Rental (Alternative Accommodations) company in Salt Lake City, Utah.&nbsp;</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-s",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">NEXT ARTICLE &gt;&gt;</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-l",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/footer-test-3-265x51.png",
               "class": "card-img-top",
               "width": 265,
               "active": true,
