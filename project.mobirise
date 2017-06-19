@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "blog.html",
+    "currentPage": "index.html",
     "name": "Transity",
     "theme": {
       "name": "mobirise3",
@@ -571,8 +571,8 @@
                   "active": true
                 }
               },
-              "authorName": "Jhollman C.",
-              "authorBio": "User"
+              "authorName": "Linda H.",
+              "authorBio": "Manager"
             }
           ],
           "_anchor": "testimonials1-2",
@@ -696,7 +696,7 @@
               "family": "et-line"
             }
           },
-          "text3": "Transity<br>269 East 900 South<br>Suite 241<br>Salt Lake City, Utah<br>84105",
+          "text3": "Transity Homes<br>269 East 900 South<br>Suite 241<br>Salt Lake City, Utah<br>84111",
           "media3": {
             "iconFont": {
               "active": true,
@@ -1435,7 +1435,7 @@
               "family": "et-line"
             }
           },
-          "text3": "Transity<br>269 East 900 South<br>Suite 241<br>Salt Lake City, Utah<br>84105",
+          "text3": "Transity Homes<br>269 East 900 South<br>Suite 241<br>Salt Lake City, Utah<br>84111",
           "media3": {
             "iconFont": {
               "active": true,
